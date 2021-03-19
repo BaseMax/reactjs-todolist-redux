@@ -12,7 +12,7 @@ or build:
 
 ```bash
 $ git clone https://github.com/BaseMax/reactjs-todolist-redux
-$ cd reactjs-todolist
+$ cd reactjs-todolist-redux
 $ npm install
 $ npm start
 ```
