@@ -24,7 +24,7 @@ $ npm start
 
 ### Acknowledgment
 
-I saw an [Youtube video](https://www.youtube.com/watch?v=N8kYlimhuLw) and It's encouraged me to write a similar project myself.
+I saw an [Youtube video](https://www.youtube.com/watch?v=xwkbWUOGfws) and It's encouraged me to write a similar project myself.
 
 © Copyright Max Base
 
