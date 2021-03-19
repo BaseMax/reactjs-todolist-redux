@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-todolist-redux/static/css/main.dc1cab32.chunk.css",
+    "main.js": "/reactjs-todolist-redux/static/js/main.72b9e9ab.chunk.js",
+    "main.js.map": "/reactjs-todolist-redux/static/js/main.72b9e9ab.chunk.js.map",
+    "runtime-main.js": "/reactjs-todolist-redux/static/js/runtime-main.68ef451f.js",
+    "runtime-main.js.map": "/reactjs-todolist-redux/static/js/runtime-main.68ef451f.js.map",
+    "static/css/2.658248ec.chunk.css": "/reactjs-todolist-redux/static/css/2.658248ec.chunk.css",
+    "static/js/2.40b6430a.chunk.js": "/reactjs-todolist-redux/static/js/2.40b6430a.chunk.js",
+    "static/js/2.40b6430a.chunk.js.map": "/reactjs-todolist-redux/static/js/2.40b6430a.chunk.js.map",
+    "static/js/3.2a79c5ad.chunk.js": "/reactjs-todolist-redux/static/js/3.2a79c5ad.chunk.js",
+    "static/js/3.2a79c5ad.chunk.js.map": "/reactjs-todolist-redux/static/js/3.2a79c5ad.chunk.js.map",
+    "index.html": "/reactjs-todolist-redux/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/reactjs-todolist-redux/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.dc1cab32.chunk.css.map": "/reactjs-todolist-redux/static/css/main.dc1cab32.chunk.css.map",
+    "static/js/2.40b6430a.chunk.js.LICENSE.txt": "/reactjs-todolist-redux/static/js/2.40b6430a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68ef451f.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.40b6430a.chunk.js",
+    "static/css/main.dc1cab32.chunk.css",
+    "static/js/main.72b9e9ab.chunk.js"
+  ]
+}
