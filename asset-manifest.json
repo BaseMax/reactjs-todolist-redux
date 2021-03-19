@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactjs-todolist-redux/static/css/main.dc1cab32.chunk.css",
-    "main.js": "/reactjs-todolist-redux/static/js/main.72b9e9ab.chunk.js",
-    "main.js.map": "/reactjs-todolist-redux/static/js/main.72b9e9ab.chunk.js.map",
+    "main.js": "/reactjs-todolist-redux/static/js/main.a869dbeb.chunk.js",
+    "main.js.map": "/reactjs-todolist-redux/static/js/main.a869dbeb.chunk.js.map",
     "runtime-main.js": "/reactjs-todolist-redux/static/js/runtime-main.68ef451f.js",
     "runtime-main.js.map": "/reactjs-todolist-redux/static/js/runtime-main.68ef451f.js.map",
     "static/css/2.658248ec.chunk.css": "/reactjs-todolist-redux/static/css/2.658248ec.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.658248ec.chunk.css",
     "static/js/2.40b6430a.chunk.js",
     "static/css/main.dc1cab32.chunk.css",
-    "static/js/main.72b9e9ab.chunk.js"
+    "static/js/main.a869dbeb.chunk.js"
   ]
 }
