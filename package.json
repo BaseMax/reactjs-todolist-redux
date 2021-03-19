@@ -22,6 +22,7 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "clean": "gh-pages-clean",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
